@@ -48,6 +48,7 @@ Happy Coding! 🌟
 | [0350-intersection-of-two-arrays-ii](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [2536-determine-if-two-events-have-conflict](https://github.com/kripa-sindhu-007/LeetCode/tree/master/2536-determine-if-two-events-have-conflict) |
 ## Hash Table
 |  |
 | ------- |
@@ -73,6 +74,7 @@ Happy Coding! 🌟
 ## String
 |  |
 | ------- |
+| [2536-determine-if-two-events-have-conflict](https://github.com/kripa-sindhu-007/LeetCode/tree/master/2536-determine-if-two-events-have-conflict) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/kripa-sindhu-007/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
