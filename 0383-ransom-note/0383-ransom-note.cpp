@@ -5,9 +5,7 @@ public:
         for (char c : magazine)
             map[c]++;
         for (char c : ransomNote)
-            map[c]--;
-        for (auto it : map)
-            if (it.second < 0)
+            if (map[c]-- <= 0)
                 return false;
         return true;
     }
