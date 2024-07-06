@@ -91,8 +91,13 @@ Happy Coding! 🌟
 |  |
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/kripa-sindhu-007/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2645-pass-the-pillow](https://github.com/kripa-sindhu-007/LeetCode/tree/master/2645-pass-the-pillow) |
 ## Counting
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0383-ransom-note) |
+## Math
+|  |
+| ------- |
+| [2645-pass-the-pillow](https://github.com/kripa-sindhu-007/LeetCode/tree/master/2645-pass-the-pillow) |
 <!---LeetCode Topics End-->
