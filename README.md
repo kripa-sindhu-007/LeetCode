@@ -48,6 +48,7 @@ Happy Coding! 🌟
 | [0350-intersection-of-two-arrays-ii](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1720-crawler-log-folder](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/kripa-sindhu-007/LeetCode/tree/master/2536-determine-if-two-events-have-conflict) |
@@ -78,6 +79,7 @@ Happy Coding! 🌟
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0383-ransom-note) |
+| [1720-crawler-log-folder](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1720-crawler-log-folder) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/kripa-sindhu-007/LeetCode/tree/master/2536-determine-if-two-events-have-conflict) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/kripa-sindhu-007/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
@@ -115,4 +117,8 @@ Happy Coding! 🌟
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Stack
+|  |
+| ------- |
+| [1720-crawler-log-folder](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1720-crawler-log-folder) |
 <!---LeetCode Topics End-->
