@@ -58,6 +58,7 @@ Happy Coding! 🌟
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0383-ransom-note) |
+| [0726-number-of-atoms](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0726-number-of-atoms) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/kripa-sindhu-007/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Two Pointers
 |  |
@@ -71,6 +72,7 @@ Happy Coding! 🌟
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0726-number-of-atoms](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0726-number-of-atoms) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2846-robot-collisions](https://github.com/kripa-sindhu-007/LeetCode/tree/master/2846-robot-collisions) |
 ## Greedy
@@ -81,6 +83,7 @@ Happy Coding! 🌟
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0383-ransom-note) |
+| [0726-number-of-atoms](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0726-number-of-atoms) |
 | [1720-crawler-log-folder](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1720-crawler-log-folder) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/kripa-sindhu-007/LeetCode/tree/master/2536-determine-if-two-events-have-conflict) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/kripa-sindhu-007/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
@@ -123,6 +126,7 @@ Happy Coding! 🌟
 ## Stack
 |  |
 | ------- |
+| [0726-number-of-atoms](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0726-number-of-atoms) |
 | [1720-crawler-log-folder](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1720-crawler-log-folder) |
 | [2846-robot-collisions](https://github.com/kripa-sindhu-007/LeetCode/tree/master/2846-robot-collisions) |
 <!---LeetCode Topics End-->
