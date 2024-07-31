@@ -45,6 +45,7 @@ Happy Coding! 🌟
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -116,6 +117,7 @@ Happy Coding! 🌟
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0048-rotate-image) |
 | [1642-water-bottles](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/kripa-sindhu-007/LeetCode/tree/master/2645-pass-the-pillow) |
@@ -136,6 +138,7 @@ Happy Coding! 🌟
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
