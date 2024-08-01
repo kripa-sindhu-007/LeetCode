@@ -50,6 +50,7 @@ Happy Coding! 🌟
 | [0054-spiral-matrix](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0169-majority-element) |
 | [0287-find-the-duplicate-number](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -63,6 +64,7 @@ Happy Coding! 🌟
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0383-ransom-note) |
 | [0726-number-of-atoms](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0726-number-of-atoms) |
@@ -84,6 +86,7 @@ Happy Coding! 🌟
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0726-number-of-atoms) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -123,6 +126,7 @@ Happy Coding! 🌟
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0383-ransom-note) |
 ## Math
 |  |
@@ -169,4 +173,5 @@ Happy Coding! 🌟
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
