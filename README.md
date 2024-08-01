@@ -45,6 +45,7 @@ Happy Coding! 🌟
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0054-spiral-matrix) |
@@ -72,6 +73,7 @@ Happy Coding! 🌟
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
