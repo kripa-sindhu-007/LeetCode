@@ -49,6 +49,7 @@ Happy Coding! 🌟
 | [0048-rotate-image](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0169-majority-element) |
@@ -89,6 +90,7 @@ Happy Coding! 🌟
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0229-majority-element-ii) |
