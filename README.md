@@ -182,4 +182,8 @@ Happy Coding! 🌟
 | ------- |
 | [0053-maximum-subarray](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0169-majority-element) |
+## Database
+|  |
+| ------- |
+| [1179-game-play-analysis-i](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1179-game-play-analysis-i) |
 <!---LeetCode Topics End-->
