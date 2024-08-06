@@ -119,6 +119,7 @@ Happy Coding! 🌟
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0002-add-two-numbers) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/kripa-sindhu-007/LeetCode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/kripa-sindhu-007/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
@@ -141,6 +142,7 @@ Happy Coding! 🌟
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0062-unique-paths) |
 | [1642-water-bottles](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1642-water-bottles) |
@@ -149,6 +151,7 @@ Happy Coding! 🌟
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0002-add-two-numbers) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
