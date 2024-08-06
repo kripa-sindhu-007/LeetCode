@@ -46,6 +46,7 @@ Happy Coding! 🌟
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0054-spiral-matrix) |
@@ -77,6 +78,7 @@ Happy Coding! 🌟
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -155,6 +157,7 @@ Happy Coding! 🌟
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0726-number-of-atoms](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0726-number-of-atoms) |
 | [1720-crawler-log-folder](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1720-crawler-log-folder) |
 | [2846-robot-collisions](https://github.com/kripa-sindhu-007/LeetCode/tree/master/2846-robot-collisions) |
@@ -167,6 +170,7 @@ Happy Coding! 🌟
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0062-unique-paths) |
 ## Combinatorics
@@ -186,4 +190,8 @@ Happy Coding! 🌟
 |  |
 | ------- |
 | [1179-game-play-analysis-i](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1179-game-play-analysis-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
