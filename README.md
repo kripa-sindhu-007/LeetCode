@@ -60,6 +60,7 @@ Happy Coding! 🌟
 | [0229-majority-element-ii](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0921-spiral-matrix-iii](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [1293-three-consecutive-odds](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1720-crawler-log-folder) |
@@ -132,6 +133,7 @@ Happy Coding! 🌟
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0054-spiral-matrix) |
+| [0921-spiral-matrix-iii](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [1642-water-bottles](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -176,6 +178,7 @@ Happy Coding! 🌟
 | [0048-rotate-image](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0921-spiral-matrix-iii](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0921-spiral-matrix-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
