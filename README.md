@@ -57,6 +57,7 @@ Happy Coding! 🌟
 | [0088-merge-sorted-array](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0198-house-robber) |
 | [0229-majority-element-ii](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -189,6 +190,7 @@ Happy Coding! 🌟
 | [0053-maximum-subarray](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0198-house-robber) |
 ## Combinatorics
 |  |
 | ------- |
