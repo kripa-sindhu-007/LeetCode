@@ -72,6 +72,7 @@ Happy Coding! 🌟
 | [2271-rearrange-array-elements-by-sign](https://github.com/kripa-sindhu-007/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/kripa-sindhu-007/LeetCode/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2846-robot-collisions](https://github.com/kripa-sindhu-007/LeetCode/tree/master/2846-robot-collisions) |
+| [3533-snake-in-matrix](https://github.com/kripa-sindhu-007/LeetCode/tree/master/3533-snake-in-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -123,6 +124,7 @@ Happy Coding! 🌟
 | [1720-crawler-log-folder](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1720-crawler-log-folder) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/kripa-sindhu-007/LeetCode/tree/master/2536-determine-if-two-events-have-conflict) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/kripa-sindhu-007/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
+| [3533-snake-in-matrix](https://github.com/kripa-sindhu-007/LeetCode/tree/master/3533-snake-in-matrix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -145,6 +147,7 @@ Happy Coding! 🌟
 | [2299-merge-nodes-in-between-zeros](https://github.com/kripa-sindhu-007/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/kripa-sindhu-007/LeetCode/tree/master/2645-pass-the-pillow) |
 | [2846-robot-collisions](https://github.com/kripa-sindhu-007/LeetCode/tree/master/2846-robot-collisions) |
+| [3533-snake-in-matrix](https://github.com/kripa-sindhu-007/LeetCode/tree/master/3533-snake-in-matrix) |
 ## Counting
 |  |
 | ------- |
