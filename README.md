@@ -46,6 +46,7 @@ Happy Coding! 🌟
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0048-rotate-image) |
@@ -87,6 +88,7 @@ Happy Coding! 🌟
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0075-sort-colors) |
@@ -115,6 +117,7 @@ Happy Coding! 🌟
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0011-container-with-most-water) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## String
 |  |
