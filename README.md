@@ -80,6 +80,7 @@ Happy Coding! 🌟
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0146-lru-cache](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -139,6 +140,7 @@ Happy Coding! 🌟
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0002-add-two-numbers) |
+| [0146-lru-cache](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0146-lru-cache) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/kripa-sindhu-007/LeetCode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/kripa-sindhu-007/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
@@ -235,4 +237,12 @@ Happy Coding! 🌟
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0070-climbing-stairs) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
