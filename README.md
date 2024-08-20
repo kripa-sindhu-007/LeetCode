@@ -49,6 +49,7 @@ Happy Coding! 🌟
 | [0011-container-with-most-water](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0054-spiral-matrix) |
@@ -121,6 +122,7 @@ Happy Coding! 🌟
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0045-jump-game-ii) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2192-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/kripa-sindhu-007/LeetCode/tree/master/2192-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 ## String
@@ -203,6 +205,7 @@ Happy Coding! 🌟
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0064-minimum-path-sum) |
