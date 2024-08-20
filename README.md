@@ -48,6 +48,7 @@ Happy Coding! 🌟
 | ------- |
 | [0011-container-with-most-water](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0031-next-permutation) |
+| [0039-combination-sum](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0048-rotate-image) |
@@ -250,4 +251,8 @@ Happy Coding! 🌟
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0146-lru-cache) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
