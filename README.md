@@ -140,6 +140,7 @@ Happy Coding! 🌟
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0146-lru-cache](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0146-lru-cache) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/kripa-sindhu-007/LeetCode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/kripa-sindhu-007/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -177,6 +178,7 @@ Happy Coding! 🌟
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
