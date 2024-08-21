@@ -24,6 +24,7 @@ Happy Coding! 🌟
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Breadth-First Search
 |  |
@@ -260,4 +261,16 @@ Happy Coding! 🌟
 | ------- |
 | [0039-combination-sum](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0040-combination-sum-ii) |
+## Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0098-validate-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0098-validate-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
