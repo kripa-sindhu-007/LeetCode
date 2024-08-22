@@ -228,6 +228,7 @@ Happy Coding! 🌟
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0476-number-complement](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0476-number-complement) |
 ## Divide and Conquer
 |  |
 | ------- |
