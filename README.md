@@ -97,6 +97,7 @@ Happy Coding! 🌟
 | [0383-ransom-note](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0726-number-of-atoms](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0726-number-of-atoms) |
+| [0807-custom-sort-string](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0807-custom-sort-string) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/kripa-sindhu-007/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Two Pointers
 |  |
@@ -127,6 +128,7 @@ Happy Coding! 🌟
 | [0229-majority-element-ii](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0726-number-of-atoms) |
+| [0807-custom-sort-string](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0807-custom-sort-string) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/kripa-sindhu-007/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2846-robot-collisions](https://github.com/kripa-sindhu-007/LeetCode/tree/master/2846-robot-collisions) |
@@ -142,6 +144,7 @@ Happy Coding! 🌟
 | ------- |
 | [0383-ransom-note](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0383-ransom-note) |
 | [0726-number-of-atoms](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0726-number-of-atoms) |
+| [0807-custom-sort-string](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0807-custom-sort-string) |
 | [1720-crawler-log-folder](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1720-crawler-log-folder) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/kripa-sindhu-007/LeetCode/tree/master/2536-determine-if-two-events-have-conflict) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/kripa-sindhu-007/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
