@@ -29,6 +29,7 @@ Happy Coding! 🌟
 | [0145-binary-tree-postorder-traversal](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Breadth-First Search
 |  |
@@ -209,6 +210,7 @@ Happy Coding! 🌟
 | [0042-trapping-rain-water](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0726-number-of-atoms](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0726-number-of-atoms) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1720-crawler-log-folder](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1720-crawler-log-folder) |
 | [2846-robot-collisions](https://github.com/kripa-sindhu-007/LeetCode/tree/master/2846-robot-collisions) |
 ## Matrix
@@ -284,6 +286,7 @@ Happy Coding! 🌟
 | [0145-binary-tree-postorder-traversal](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
