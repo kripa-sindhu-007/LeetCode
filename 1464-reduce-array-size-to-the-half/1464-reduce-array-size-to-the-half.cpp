@@ -5,18 +5,20 @@ public:
         for (int it : arr)
             map[it]++;
 
-        priority_queue<pair<int, int>> pq;
+        vector<int>freq;
 
         for (auto it : map) {
-            pq.push({it.second, it.first});
+            freq.push_back(it.second);
         }
         int count = 0;
         int size = arr.size();
         int removed_size = 0;
 
+        sort(freq.begin(),freq.end(),greater<int>());
+
         while (removed_size < size / 2) {
-            removed_size += pq.top().first;
-            pq.pop();
+            removed_size += *freq.begin();
+            freq.erase(freq.begin());
             count++;
         }
         return count;
