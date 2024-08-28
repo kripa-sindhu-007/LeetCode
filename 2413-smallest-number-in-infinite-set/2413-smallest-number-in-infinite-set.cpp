@@ -1,27 +1,26 @@
 class SmallestInfiniteSet {
 public:
-    priority_queue<int, vector<int>, greater<int>> pq;
-    unordered_map<int, bool> map;
+    set<int>ele_present;
+    int smallest;
     SmallestInfiniteSet() {
-        for (int i = 1; i <= 1000; i++) {
-            pq.push(i);
-            map[i] = true;
-        }
+        smallest=1;
+        
     }
-
+    
     int popSmallest() {
-
-        int top = pq.top();
-        pq.pop();
-        map[top] = false;
-        return top;
-    }
-
-    void addBack(int num) {
-        if (!map[num]){
-            pq.push(num);
-            map[num]=true;
+        if(!ele_present.empty()){
+            int element=*ele_present.begin();
+            ele_present.erase(ele_present.begin());
+            return element;
         }
+        else return smallest++;
+        
+    }
+    
+    void addBack(int num) {
+        if(num<smallest)
+            ele_present.insert(num);
+        
     }
 };
 
