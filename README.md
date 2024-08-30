@@ -276,6 +276,7 @@ Happy Coding! 🌟
 | ------- |
 | [0178-rank-scores](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0178-rank-scores) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
+| [0182-duplicate-emails](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0182-duplicate-emails) |
 | [1179-game-play-analysis-i](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1179-game-play-analysis-i) |
 ## Monotonic Stack
 |  |
