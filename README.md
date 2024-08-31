@@ -65,6 +65,7 @@ Happy Coding! 🌟
 | [0048-rotate-image](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0074-search-a-2d-matrix) |
@@ -157,6 +158,7 @@ Happy Coding! 🌟
 | ------- |
 | [0011-container-with-most-water](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0179-largest-number) |
 | [0324-wiggle-sort-ii](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0324-wiggle-sort-ii) |
 | [0611-valid-triangle-number](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0611-valid-triangle-number) |
@@ -259,6 +261,7 @@ Happy Coding! 🌟
 | [0042-trapping-rain-water](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0070-climbing-stairs) |
