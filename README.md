@@ -114,6 +114,7 @@ Happy Coding! 🌟
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0031-next-permutation) |
@@ -165,6 +166,7 @@ Happy Coding! 🌟
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0179-largest-number](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0179-largest-number) |
 | [0383-ransom-note](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0383-ransom-note) |
 | [0726-number-of-atoms](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0726-number-of-atoms) |
@@ -249,6 +251,7 @@ Happy Coding! 🌟
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0053-maximum-subarray) |
