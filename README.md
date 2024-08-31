@@ -167,6 +167,7 @@ Happy Coding! 🌟
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0179-largest-number](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0179-largest-number) |
 | [0383-ransom-note](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0383-ransom-note) |
 | [0726-number-of-atoms](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0726-number-of-atoms) |
@@ -233,6 +234,7 @@ Happy Coding! 🌟
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0726-number-of-atoms](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0726-number-of-atoms) |
@@ -253,6 +255,7 @@ Happy Coding! 🌟
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0053-maximum-subarray) |
