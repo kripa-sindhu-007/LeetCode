@@ -1,13 +1,14 @@
 class Solution {
 public:
     int rob(vector<int>& nums) {
-        int n=nums.size();
-        int fs=0,ss=0;
-        for(int i=0;i<n;i++){
-            if(i&1) fs=max(fs+nums[i],ss);
-            else ss=max(ss+nums[i],fs);
+        int odd = 0, even = 0;
+
+        for (int i = 0; i < nums.size(); i++) {
+            if (i & 1)
+                odd = max(nums[i] + odd, even);
+            else
+                even = max(even + nums[i], odd);
         }
-        return max(fs,ss);
-        
+        return max(odd, even);
     }
 };
