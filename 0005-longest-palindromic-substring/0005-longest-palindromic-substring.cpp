@@ -1,40 +1,24 @@
 class Solution {
 public:
-    string longestPalindrome(string str) {
-        int n = str.size();
-        if (n == 0)
-            return "";
+    string longestPalindrome(string s) {
+        int start = 0, maxlen = 1;
 
-        vector<vector<bool>> dp(n, vector<bool>(n, false));
-        int maxLength = 1;
-        int start = 0;
+        for (int i = 0; i < s.size(); i++) {
+            int left = i, right = i;
+            while (right + 1 < s.size() && s[right] == s[right + 1])
+                right++; // skip duplicate midpoint
 
-        // All substrings of length 1 are palindromes
-        for (int i = 0; i < n; ++i) {
-            dp[i][i] = true;
-        }
-
-        // Check for substrings of length 2
-        for (int i = 0; i < n - 1; ++i) {
-            if (str[i] == str[i + 1]) {
-                dp[i][i + 1] = true;
-                start = i;
-                maxLength = 2;
+            while (left > 0 && right + 1 < s.size() &&
+                   s[left - 1] == s[right + 1]) {
+                left--;
+                right++;
+            }
+            int length = right - left + 1;
+            if (length > maxlen) {
+                start = left;
+                maxlen = length;
             }
         }
-
-        // Check for lengths greater than 2
-        for (int len = 3; len <= n; ++len) {
-            for (int i = 0; i <= n - len; ++i) {
-                int j = i + len - 1;
-                if (str[i] == str[j] && dp[i + 1][j - 1]) {
-                    dp[i][j] = true;
-                    start = i;
-                    maxLength = len;
-                }
-            }
-        }
-
-        return str.substr(start, maxLength);
+        return s.substr(start, maxlen);
     }
 };
