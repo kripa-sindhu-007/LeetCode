@@ -322,6 +322,7 @@ Happy Coding! 🌟
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0783-search-in-a-binary-search-tree](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -329,6 +330,7 @@ Happy Coding! 🌟
 | [0099-recover-binary-search-tree](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -340,6 +342,7 @@ Happy Coding! 🌟
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 ## Quickselect
 |  |
 | ------- |
