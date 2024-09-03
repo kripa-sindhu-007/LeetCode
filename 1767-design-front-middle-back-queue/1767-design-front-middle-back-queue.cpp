@@ -55,13 +55,13 @@ public:
         if (first_half.empty() && second_half.empty()) return -1;
 
         int result;
-        if (first_half.size() == second_half.size()) {
+        // if (first_half.size() == second_half.size()) {
+        //     result = first_half.back();
+        //     first_half.pop_back();
+        // } else {
             result = first_half.back();
             first_half.pop_back();
-        } else {
-            result = first_half.back();
-            first_half.pop_back();
-        }
+        //}
         balance();
         return result;
     }
