@@ -89,6 +89,7 @@ Happy Coding! 🌟
 | [1014-k-closest-points-to-origin](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1293-three-consecutive-odds](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1464-reduce-array-size-to-the-half](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
+| [1477-product-of-the-last-k-numbers](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1803-average-waiting-time) |
@@ -225,6 +226,7 @@ Happy Coding! 🌟
 | [0070-climbing-stairs](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0070-climbing-stairs) |
 | [0650-2-keys-keyboard](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [1014-k-closest-points-to-origin](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [1477-product-of-the-last-k-numbers](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1642-water-bottles](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/kripa-sindhu-007/LeetCode/tree/master/2645-pass-the-pillow) |
@@ -237,6 +239,7 @@ Happy Coding! 🌟
 ## Queue
 |  |
 | ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Stack
 |  |
@@ -319,6 +322,7 @@ Happy Coding! 🌟
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0146-lru-cache) |
+| [1477-product-of-the-last-k-numbers](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2413-smallest-number-in-infinite-set](https://github.com/kripa-sindhu-007/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 ## Doubly-Linked List
 |  |
@@ -379,4 +383,8 @@ Happy Coding! 🌟
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
