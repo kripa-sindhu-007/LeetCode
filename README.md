@@ -85,6 +85,7 @@ Happy Coding! 🌟
 | [0350-intersection-of-two-arrays-ii](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0611-valid-triangle-number) |
+| [0906-walking-robot-simulation](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [1014-k-closest-points-to-origin](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1293-three-consecutive-odds](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -113,6 +114,7 @@ Happy Coding! 🌟
 | [0560-subarray-sum-equals-k](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0726-number-of-atoms](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0726-number-of-atoms) |
 | [0807-custom-sort-string](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0807-custom-sort-string) |
+| [0906-walking-robot-simulation](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [1464-reduce-array-size-to-the-half](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [2413-smallest-number-in-infinite-set](https://github.com/kripa-sindhu-007/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/kripa-sindhu-007/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
@@ -203,6 +205,7 @@ Happy Coding! 🌟
 | ------- |
 | [0054-spiral-matrix](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0289-game-of-life) |
+| [0906-walking-robot-simulation](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [1642-water-bottles](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1803-average-waiting-time) |
