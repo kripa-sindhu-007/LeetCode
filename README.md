@@ -32,6 +32,7 @@ Happy Coding! 🌟
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0337-house-robber-iii) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Breadth-First Search
@@ -40,6 +41,7 @@ Happy Coding! 🌟
 | [0102-binary-tree-level-order-traversal](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Graph
 |  |
@@ -355,6 +357,7 @@ Happy Coding! 🌟
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0337-house-robber-iii) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 ## Binary Search Tree
@@ -378,6 +381,7 @@ Happy Coding! 🌟
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0337-house-robber-iii) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0783-search-in-a-binary-search-tree](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 ## Quickselect
 |  |
