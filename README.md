@@ -347,6 +347,7 @@ Happy Coding! 🌟
 | ------- |
 | [0039-combination-sum](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0077-combinations](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0077-combinations) |
 ## Tree
 |  |
 | ------- |
