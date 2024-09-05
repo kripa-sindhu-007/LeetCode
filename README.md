@@ -78,6 +78,7 @@ Happy Coding! 🌟
 | [0064-minimum-path-sum](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -184,6 +185,7 @@ Happy Coding! 🌟
 | [0005-longest-palindromic-substring](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0079-word-search) |
 | [0179-largest-number](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0179-largest-number) |
 | [0383-ransom-note](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0383-ransom-note) |
 | [0726-number-of-atoms](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0726-number-of-atoms) |
@@ -271,6 +273,7 @@ Happy Coding! 🌟
 | [0054-spiral-matrix](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0079-word-search) |
 | [0289-game-of-life](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0289-game-of-life) |
 | [0921-spiral-matrix-iii](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/kripa-sindhu-007/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
@@ -348,6 +351,7 @@ Happy Coding! 🌟
 | [0039-combination-sum](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0079-word-search) |
 ## Tree
 |  |
 | ------- |
