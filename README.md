@@ -114,6 +114,7 @@ Happy Coding! 🌟
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0128-longest-consecutive-sequence](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0169-majority-element) |
@@ -184,6 +185,7 @@ Happy Coding! 🌟
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0032-longest-valid-parentheses](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0079-word-search) |
@@ -349,6 +351,7 @@ Happy Coding! 🌟
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0077-combinations) |
