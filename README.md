@@ -26,6 +26,7 @@ Happy Coding! 🌟
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0099-recover-binary-search-tree) |
+| [0113-path-sum-ii](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0113-path-sum-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -352,6 +353,7 @@ Happy Coding! 🌟
 | [0040-combination-sum-ii](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0079-word-search) |
+| [0113-path-sum-ii](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0113-path-sum-ii) |
 ## Tree
 |  |
 | ------- |
@@ -359,6 +361,7 @@ Happy Coding! 🌟
 | [0099-recover-binary-search-tree](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0113-path-sum-ii](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0113-path-sum-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -385,6 +388,7 @@ Happy Coding! 🌟
 | [0099-recover-binary-search-tree](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0113-path-sum-ii](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0113-path-sum-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
