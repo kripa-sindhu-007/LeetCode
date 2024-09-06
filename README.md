@@ -93,6 +93,7 @@ Happy Coding! 🌟
 | [0289-game-of-life](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0289-game-of-life) |
 | [0324-wiggle-sort-ii](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0324-wiggle-sort-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0435-non-overlapping-intervals](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0560-subarray-sum-equals-k](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0906-walking-robot-simulation](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0906-walking-robot-simulation) |
@@ -164,6 +165,7 @@ Happy Coding! 🌟
 | [0229-majority-element-ii](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0229-majority-element-ii) |
 | [0324-wiggle-sort-ii](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0324-wiggle-sort-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0435-non-overlapping-intervals](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0611-valid-triangle-number](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0726-number-of-atoms](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0726-number-of-atoms) |
 | [0807-custom-sort-string](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0807-custom-sort-string) |
@@ -182,6 +184,7 @@ Happy Coding! 🌟
 | [0179-largest-number](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0324-wiggle-sort-ii](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0324-wiggle-sort-ii) |
+| [0435-non-overlapping-intervals](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0611-valid-triangle-number](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0611-valid-triangle-number) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1464-reduce-array-size-to-the-half](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
@@ -308,6 +311,7 @@ Happy Coding! 🌟
 | [0198-house-robber](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0213-house-robber-ii) |
 | [0337-house-robber-iii](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0337-house-robber-iii) |
+| [0435-non-overlapping-intervals](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0650-2-keys-keyboard](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [1250-longest-common-subsequence](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1250-longest-common-subsequence) |
 ## Combinatorics
