@@ -1,18 +1,8 @@
 class Solution {
-public:
-    bool exist(vector<vector<char>>& board, string word) {
-        for (int i = 0; i < board.size(); i++) {
-            for (int j = 0; j < board[0].size(); j++) {
-                if (dfs(board, word, i, j, 0)) {
-                    return true;
-                }
-            }
-        }
-        return false;
-    }
-
 private:
-    bool dfs(vector<vector<char>>& board, string& word, int i, int j, int idx) {
+    bool helper(int i, int j, vector<vector<char>>& board, string& word,
+                int idx) {
+
         if (idx == word.size())
             return true;
 
@@ -20,16 +10,27 @@ private:
             board[i][j] != word[idx])
             return false;
 
-        char temp = board[i][j]; // temprory store the char and replace it with
-                                 // some char so that we can explore that path
+        char temp = board[i][j];
+        board[i][j] = '&';
 
-        board[i][j] = '*';
+        bool decision = helper(i + 1, j, board, word, idx + 1) ||
+                        helper(i, j + 1, board, word, idx + 1) ||
+                        helper(i - 1, j, board, word, idx + 1) ||
+                        helper(i, j - 1, board, word, idx + 1);
 
-        bool cond = dfs(board, word, i - 1, j, idx + 1) || // explore
-                    dfs(board, word, i, j + 1, idx + 1) ||
-                    dfs(board, word, i + 1, j, idx + 1) ||
-                    dfs(board, word, i, j - 1, idx + 1);
-        board[i][j] = temp; // restore or backtrack
-        return cond;
+        board[i][j] = temp;
+        return decision;
+    }
+
+public:
+    bool exist(vector<vector<char>>& board, string word) {
+        for (int i = 0; i < board.size(); i++) {
+            for (int j = 0; j < board[0].size(); j++) {
+                if (helper(i, j, board, word, 0))
+                    return true;
+            }
+        }
+
+        return false;
     }
 };
