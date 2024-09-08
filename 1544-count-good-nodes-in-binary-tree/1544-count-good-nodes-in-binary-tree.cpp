@@ -11,54 +11,30 @@
  * };
  */
 class Solution {
-public:
-    int goodNodes(TreeNode* root) {
-        // if (!root)
-        //     return 0;
-        // queue<pair<TreeNode*, int>> q;
-        // q.push({root, root->val});
-        // int goodNode = 0;
-        // while (!q.empty()) {
-        //     auto [node, max_val] = q.front();
-        //     q.pop();
-
-        //     if (max_val <= node->val)
-        //         goodNode++;
-
-        //     max_val = max(max_val, node->val);
-
-        //     if (node->left)
-        //         q.push({node->left, max_val});
-        //     if (node->right)
-        //         q.push({node->right, max_val});
-        // }
-        // return goodNode;
-
-        return dfs(root, INT_MIN);
-    }
+    // int count = 0;
 
 private:
-    int dfs(TreeNode* node, int curr_max) {
-        if (!node)
+    int helper(TreeNode* root, int max_allowed) {
+        if (!root)
             return 0;
+        int count = 0;
+        if (root->val >= max_allowed)
+            count = 1;
 
-        int good = 0;
+        max_allowed = max(max_allowed, root->val);
+        // if (root->left)
+        count += helper(root->left, max_allowed);
+        // if (root->right)
+        count += helper(root->right, max_allowed);
 
-        if (node->val >= curr_max)
-            good = 1;
+        return count;
+    }
 
-        curr_max = max(curr_max, node->val);
-
-        good += dfs(node->left, curr_max);
-        good += dfs(node->right, curr_max);
-
-        return good;
+public:
+    int goodNodes(TreeNode* root) {
+        int max_allowed = INT_MIN;
+        // int count=0;
+        return helper(root, max_allowed);
+        // return count;
     }
 };
-auto init = []()
-{ 
-    ios::sync_with_stdio(0);
-    cin.tie(0);
-    cout.tie(0);
-    return 'c';
-}();
