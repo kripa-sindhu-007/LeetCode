@@ -87,6 +87,7 @@ Happy Coding! 🌟
 | [0169-majority-element](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -259,6 +260,7 @@ Happy Coding! 🌟
 | [0048-rotate-image](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0070-climbing-stairs) |
+| [0204-count-primes](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0204-count-primes) |
 | [0650-2-keys-keyboard](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [1014-k-closest-points-to-origin](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1477-product-of-the-last-k-numbers](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -446,4 +448,12 @@ Happy Coding! 🌟
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1767-design-front-middle-back-queue](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1767-design-front-middle-back-queue) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
