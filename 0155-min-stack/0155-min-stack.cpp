@@ -21,6 +21,7 @@ public:
         } else {
             curr_min = INT_MAX;
         }
+        
     }
 
     int top() { return arr[size - 1].first; }
