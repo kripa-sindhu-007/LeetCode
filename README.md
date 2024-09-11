@@ -86,6 +86,7 @@ Happy Coding! 🌟
 | [0134-gas-station](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0134-gas-station) |
 | [0169-majority-element](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0213-house-robber-ii) |
@@ -145,6 +146,7 @@ Happy Coding! 🌟
 | [0042-trapping-rain-water](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0611-valid-triangle-number](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0611-valid-triangle-number) |
@@ -260,6 +262,7 @@ Happy Coding! 🌟
 | [0048-rotate-image](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0204-count-primes) |
 | [0650-2-keys-keyboard](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [1014-k-closest-points-to-origin](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1014-k-closest-points-to-origin) |
