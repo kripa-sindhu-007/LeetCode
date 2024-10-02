@@ -103,6 +103,7 @@ Happy Coding! 🌟
 | [0906-walking-robot-simulation](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [1014-k-closest-points-to-origin](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [1256-rank-transform-of-an-array](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1464-reduce-array-size-to-the-half](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1477-product-of-the-last-k-numbers](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -132,6 +133,7 @@ Happy Coding! 🌟
 | [0726-number-of-atoms](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0726-number-of-atoms) |
 | [0807-custom-sort-string](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0807-custom-sort-string) |
 | [0906-walking-robot-simulation](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0906-walking-robot-simulation) |
+| [1256-rank-transform-of-an-array](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1464-reduce-array-size-to-the-half](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [2413-smallest-number-in-infinite-set](https://github.com/kripa-sindhu-007/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/kripa-sindhu-007/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
@@ -176,6 +178,7 @@ Happy Coding! 🌟
 | [0726-number-of-atoms](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0726-number-of-atoms) |
 | [0807-custom-sort-string](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0807-custom-sort-string) |
 | [1014-k-closest-points-to-origin](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [1256-rank-transform-of-an-array](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1464-reduce-array-size-to-the-half](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/kripa-sindhu-007/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
