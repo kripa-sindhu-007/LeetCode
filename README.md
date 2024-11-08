@@ -209,6 +209,7 @@ Happy Coding! 🌟
 | [0032-longest-valid-parentheses](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0079-word-search) |
+| [0087-scramble-string](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0087-scramble-string) |
 | [0179-largest-number](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0383-ransom-note](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0383-ransom-note) |
@@ -322,6 +323,7 @@ Happy Coding! 🌟
 | [0064-minimum-path-sum](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0072-edit-distance) |
+| [0087-scramble-string](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0087-scramble-string) |
 | [0120-triangle](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0213-house-robber-ii) |
