@@ -103,6 +103,7 @@ Happy Coding! 🌟
 | [0906-walking-robot-simulation](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [1014-k-closest-points-to-origin](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [1041-available-captures-for-rook](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1041-available-captures-for-rook) |
 | [1256-rank-transform-of-an-array](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1464-reduce-array-size-to-the-half](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
@@ -244,6 +245,7 @@ Happy Coding! 🌟
 | [0289-game-of-life](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0289-game-of-life) |
 | [0906-walking-robot-simulation](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0921-spiral-matrix-iii) |
+| [1041-available-captures-for-rook](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1041-available-captures-for-rook) |
 | [1642-water-bottles](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -309,6 +311,7 @@ Happy Coding! 🌟
 | [0079-word-search](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0079-word-search) |
 | [0289-game-of-life](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0289-game-of-life) |
 | [0921-spiral-matrix-iii](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0921-spiral-matrix-iii) |
+| [1041-available-captures-for-rook](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1041-available-captures-for-rook) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/kripa-sindhu-007/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 ## Dynamic Programming
 |  |
