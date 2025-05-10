@@ -112,6 +112,7 @@ Happy Coding! 🌟
 | [1720-crawler-log-folder](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1767-design-front-middle-back-queue](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1767-design-front-middle-back-queue) |
 | [1803-average-waiting-time](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1803-average-waiting-time) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2192-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/kripa-sindhu-007/LeetCode/tree/master/2192-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/kripa-sindhu-007/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -219,6 +220,7 @@ Happy Coding! 🌟
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1250-longest-common-subsequence](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1720-crawler-log-folder](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1720-crawler-log-folder) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/kripa-sindhu-007/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/kripa-sindhu-007/LeetCode/tree/master/2536-determine-if-two-events-have-conflict) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/kripa-sindhu-007/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
@@ -372,6 +374,7 @@ Happy Coding! 🌟
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 ## Memoization
 |  |
 | ------- |
