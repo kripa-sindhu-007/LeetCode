@@ -100,6 +100,7 @@ Happy Coding! 🌟
 | [0560-subarray-sum-equals-k](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0611-valid-triangle-number) |
+| [0624-maximum-distance-in-arrays](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0906-walking-robot-simulation](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [1014-k-closest-points-to-origin](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1014-k-closest-points-to-origin) |
@@ -199,6 +200,7 @@ Happy Coding! 🌟
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0611-valid-triangle-number) |
+| [0624-maximum-distance-in-arrays](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1464-reduce-array-size-to-the-half](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
