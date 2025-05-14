@@ -133,6 +133,7 @@ Happy Coding! 🌟
 | [0146-lru-cache](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0229-majority-element-ii) |
+| [0290-word-pattern](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -221,6 +222,7 @@ Happy Coding! 🌟
 | [0079-word-search](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0087-scramble-string) |
 | [0179-largest-number](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0179-largest-number) |
+| [0290-word-pattern](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0383-ransom-note](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0383-ransom-note) |
 | [0726-number-of-atoms](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0726-number-of-atoms) |
