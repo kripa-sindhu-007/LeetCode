@@ -1,17 +1,16 @@
 class Solution {
 public:
     int rob(vector<int>& nums) {
-        int odd_houses_amount = 0;
-        int even_houses_amount = 0;
+        int n = nums.size();
+        vector<int> dp(n, -1);
 
-        for (int i = 0; i < nums.size(); i++) {
-            if (i % 2 == 0)
-                even_houses_amount =
-                    max(even_houses_amount + nums[i], odd_houses_amount);
-            else
-                odd_houses_amount =
-                    max(odd_houses_amount + nums[i], even_houses_amount);
+        dp[0] = nums[0];
+        if (n > 1)
+            dp[1] = max(dp[0], nums[1]);
+
+        for (int i = 2; i < n; i++) {
+            dp[i] = max(dp[i - 2] + nums[i], dp[i - 1]);
         }
-        return max(even_houses_amount, odd_houses_amount);
+        return dp[n - 1];
     }
 };
