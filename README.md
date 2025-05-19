@@ -107,6 +107,7 @@ Happy Coding! 🌟
 | [0624-maximum-distance-in-arrays](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0906-walking-robot-simulation](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0921-spiral-matrix-iii) |
+| [0954-maximum-sum-circular-subarray](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1014-k-closest-points-to-origin](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1041-available-captures-for-rook](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1041-available-captures-for-rook) |
 | [1256-rank-transform-of-an-array](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1256-rank-transform-of-an-array) |
@@ -300,6 +301,7 @@ Happy Coding! 🌟
 ## Queue
 |  |
 | ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1477-product-of-the-last-k-numbers](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1767-design-front-middle-back-queue](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1767-design-front-middle-back-queue) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -348,6 +350,7 @@ Happy Coding! 🌟
 | [0337-house-robber-iii](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0337-house-robber-iii) |
 | [0435-non-overlapping-intervals](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0650-2-keys-keyboard](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0650-2-keys-keyboard) |
+| [0954-maximum-sum-circular-subarray](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1250-longest-common-subsequence](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1250-longest-common-subsequence) |
 ## Combinatorics
 |  |
@@ -365,6 +368,7 @@ Happy Coding! 🌟
 | [0053-maximum-subarray](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0169-majority-element) |
 | [0324-wiggle-sort-ii](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0324-wiggle-sort-ii) |
+| [0954-maximum-sum-circular-subarray](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1014-k-closest-points-to-origin](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Database
 |  |
@@ -486,4 +490,8 @@ Happy Coding! 🌟
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0204-count-primes) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
