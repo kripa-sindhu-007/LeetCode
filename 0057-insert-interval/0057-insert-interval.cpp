@@ -2,18 +2,29 @@ class Solution {
 public:
     vector<vector<int>> insert(vector<vector<int>>& intervals,
                                vector<int>& newInterval) {
-        intervals.push_back(newInterval);
-        sort(intervals.begin(), intervals.end());
-        vector<vector<int>> mergedIntervals;
+        vector<vector<int>> merged_intervals;
+        int i = 0;
+        int size = intervals.size();
 
-        for (int i = 0; i < intervals.size(); i++) {
-            if (i == 0 || mergedIntervals.back()[1] < intervals[i][0]) {
-                mergedIntervals.push_back(intervals[i]);
-            } else {
-                mergedIntervals.back()[1] =
-                    max(mergedIntervals.back()[1], intervals[i][1]);
-            }
+        // taking all the left valid intervals of the new one
+        while (i < size && intervals[i][1] < newInterval[0]) {
+            merged_intervals.push_back(intervals[i]);
+            i++;
         }
-        return mergedIntervals;
+
+        // merged the overlapping if present
+        while (i < size && intervals[i][0] <= newInterval[1]) {
+            newInterval[0] = min(newInterval[0], intervals[i][0]);
+            newInterval[1] = max(newInterval[1], intervals[i][1]);
+            i++;
+        }
+        merged_intervals.push_back(newInterval);
+
+        //insert the right valid interval in result
+        while (i < size) {
+            merged_intervals.push_back(intervals[i]);
+            i++;
+        }
+        return merged_intervals;
     }
 };
