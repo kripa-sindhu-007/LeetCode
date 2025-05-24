@@ -256,6 +256,7 @@ Happy Coding! 🌟
 | [0024-swap-nodes-in-pairs](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0092-reverse-linked-list-ii](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [0146-lru-cache](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0146-lru-cache) |
 | [0725-split-linked-list-in-parts](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0725-split-linked-list-in-parts) |
 | [1767-design-front-middle-back-queue](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1767-design-front-middle-back-queue) |
