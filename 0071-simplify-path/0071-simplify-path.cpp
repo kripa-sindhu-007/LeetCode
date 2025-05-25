@@ -3,21 +3,17 @@ public:
     string simplifyPath(string path) {
         stack<string> st;
         string canonical_path = "";
-        for (int i = 0; i < path.size(); i++) {
-            if (path[i] == '/')
-                continue;
-            string temp = "";
-            while (i < path.size() && path[i] != '/') {
-                temp += path[i++];
-            }
+        string dir = "";
+        stringstream ss(path);
 
-            if (temp == ".")
+        while (getline(ss, dir, '/')) {
+            if (dir == "" || dir == ".")
                 continue;
-            else if (temp == "..") {
+            else if (dir == "..") {
                 if (!st.empty())
                     st.pop();
             } else
-                st.push(temp);
+                st.push(dir);
         }
         while (!st.empty()) {
             canonical_path = '/' + st.top() + canonical_path;
