@@ -95,6 +95,7 @@ Happy Coding! 🌟
 | [0198-house-robber](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0213-house-robber-ii) |
+| [0228-summary-ranges](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0287-find-the-duplicate-number) |
