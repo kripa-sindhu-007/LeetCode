@@ -12,26 +12,22 @@
  */
 class Solution {
 private:
-    int kth;
-    void helper(TreeNode* root, int k, priority_queue<int>& pq) {
+    priority_queue<int> pq;
+    void helper(TreeNode* root, int k) {
         if (!root)
             return;
-
-        if (root->left)
-            helper(root->left, k, pq);
         pq.push(root->val);
+        if (root->left)
+            helper(root->left, k);
         if (root->right)
-            helper(root->right, k, pq);
-
+            helper(root->right, k);
         if (pq.size() > k)
             pq.pop();
     }
 
 public:
     int kthSmallest(TreeNode* root, int k) {
-        priority_queue<int> pq;
-        helper(root, k, pq);
-        int ans = pq.top();
-        return ans;
+        helper(root, k);
+        return pq.top();
     }
 };
