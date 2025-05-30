@@ -12,17 +12,21 @@
  */
 class Solution {
 private:
-    bool helper(TreeNode* root, long long max, long long min) {
-        if (root == NULL)
+    bool helper(TreeNode* root, long long min, long long max) {
+        if (!root)
             return true;
+
         if (root->val <= min || root->val >= max)
             return false;
-        else
-            return helper(root->left, root->val, min) &&
-                   helper(root->right, max, root->val);
+
+        return helper(root->left, min, root->val) &&
+               helper(root->right, root->val, max);
     }
 
 public:
-    bool isValidBST(TreeNode* root) { return helper(root, LONG_MAX, LONG_MIN); }
-    // long long ke jagah int lene se wrong answer aata hai
+    bool isValidBST(TreeNode* root) {
+        long long max = LONG_LONG_MAX;
+        long long min = LONG_LONG_MIN;
+        return helper(root, min, max);
+    }
 };
