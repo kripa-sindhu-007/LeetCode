@@ -11,13 +11,11 @@
  * };
  */
 class Solution {
-    int maxSum = INT_MIN;
-
 private:
+    int maxSum = INT_MIN;
     int helper(TreeNode* root) {
         if (!root)
             return 0;
-
         int leftSum = max(0, helper(root->left));
         int rightSum = max(0, helper(root->right));
 
