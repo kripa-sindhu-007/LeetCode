@@ -37,6 +37,8 @@ public:
             if (curr_node.second->next != nullptr)
                 pq.push({curr_node.second->next->val, curr_node.second->next});
         }
-        return dummyHead->next;
+        ListNode* result = dummyHead->next;
+        delete dummyHead;
+        return result;
     }
 };
