@@ -266,6 +266,7 @@ Happy Coding! 🌟
 | ------- |
 | [0002-add-two-numbers](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0023-merge-k-sorted-lists](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -393,6 +394,7 @@ Happy Coding! 🌟
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0169-majority-element) |
 | [0324-wiggle-sort-ii](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0324-wiggle-sort-ii) |
@@ -513,6 +515,7 @@ Happy Coding! 🌟
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [1014-k-closest-points-to-origin](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1464-reduce-array-size-to-the-half](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [2413-smallest-number-in-infinite-set](https://github.com/kripa-sindhu-007/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
@@ -537,4 +540,8 @@ Happy Coding! 🌟
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
