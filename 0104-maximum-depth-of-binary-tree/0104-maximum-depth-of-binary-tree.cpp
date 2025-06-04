@@ -11,19 +11,10 @@
  * };
  */
 class Solution {
-private:
-    int helper(TreeNode* root, int& depth) {
-        if (!root)
-            return 0;
-        int leftMax = helper(root->left, depth);
-        int rightMax = helper(root->right, depth);
-        return depth = max(leftMax, rightMax) + 1;
-    }
-
 public:
     int maxDepth(TreeNode* root) {
-        int depth = 0;
-        helper(root, depth);
-        return depth;
+        if (!root)
+            return 0;
+        return max(maxDepth(root->left), maxDepth(root->right)) + 1;
     }
 };
