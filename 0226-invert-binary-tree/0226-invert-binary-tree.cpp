@@ -18,8 +18,8 @@ public:
         swap(root->left, root->right);
         TreeNode* leftChildInvert = invertTree(root->left);
         TreeNode* rightChildInvert = invertTree(root->right);
-        root->left = leftChildInvert;
-        root->right = rightChildInvert;
+        // root->left = leftChildInvert;   redundant
+        // root->right = rightChildInvert; redundant
         return root;
     }
 };
