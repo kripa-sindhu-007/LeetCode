@@ -1,33 +1,31 @@
 class Solution {
-public:
-    vector<string> letterCombinations(string digits) {
-        if (digits.size() == 0)
-            return {};
-
-        vector<string> map = {"",    "",    "abc",  "def", "ghi",
-                              "jkl", "mno", "pqrs", "tuv", "wxyz"};
-
-        vector<string> all_combination;
-        string curr = "";
-
-        helper(all_combination, curr, map, 0, digits);
-        return all_combination;
-    }
-
 private:
-    void helper(vector<string>& all_combination, string& curr,
-                vector<string>& map, int idx, string& digits) {
+    void helper(string digits, vector<string>& allCombi, vector<string>& map,
+                string currCombi, int idx) {
         if (idx == digits.size()) {
-            all_combination.push_back(curr);
+            allCombi.push_back(currCombi);
             return;
         }
 
-        string characters = map[digits[idx] - '0'];
+        string alphaInDigit = map[digits[idx] - '0'];
 
-        for (char ch : characters) {
-            curr += ch;  //choose
-            helper(all_combination, curr, map, idx + 1, digits);  //explore
-            curr.pop_back();  //backtrack
+        for (char ch : alphaInDigit) {
+            currCombi += ch;
+            helper(digits, allCombi, map, currCombi, idx + 1);
+            currCombi.pop_back();
         }
+    }
+
+public:
+    vector<string> letterCombinations(string digits) {
+        vector<string> allCombi;
+        if (digits.size() == 0)
+            return allCombi;
+        vector<string> map = {"",    "",    "abc",  "def", "ghi",
+                              "jkl", "mno", "pqrs", "tuv", "wxyz"};
+        string currCombi = "";
+        int idx = 0;
+        helper(digits, allCombi, map, currCombi, idx);
+        return allCombi;
     }
 };
