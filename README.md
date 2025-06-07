@@ -185,6 +185,7 @@ Happy Coding! 🌟
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -208,6 +209,7 @@ Happy Coding! 🌟
 | [0056-merge-intervals](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0229-majority-element-ii) |
@@ -286,6 +288,7 @@ Happy Coding! 🌟
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0146-lru-cache) |
+| [0148-sort-list](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0148-sort-list) |
 | [0725-split-linked-list-in-parts](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0725-split-linked-list-in-parts) |
 | [1767-design-front-middle-back-queue](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1767-design-front-middle-back-queue) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/kripa-sindhu-007/LeetCode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -410,6 +413,7 @@ Happy Coding! 🌟
 | [0023-merge-k-sorted-lists](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0169-majority-element) |
 | [0324-wiggle-sort-ii](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0324-wiggle-sort-ii) |
 | [0954-maximum-sum-circular-subarray](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
@@ -573,4 +577,5 @@ Happy Coding! 🌟
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
