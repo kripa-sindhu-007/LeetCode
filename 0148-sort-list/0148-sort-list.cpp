@@ -11,18 +11,53 @@
 class Solution {
 public:
     ListNode* sortList(ListNode* head) {
-        vector<int> listVal;
-        ListNode* it = head;
-        while (it) {
-            listVal.push_back(it->val);
-            it = it->next;
+        if (!head || !head->next)
+            return head;
+
+        ListNode* midNode = getMid(head);
+        ListNode* leftHalf = head;
+        ListNode* rightHalf = midNode->next;
+        midNode->next = nullptr;
+
+        ListNode* sortedLeft = sortList(leftHalf);
+        ListNode* sortedRight = sortList(rightHalf);
+
+        return mergeList(sortedLeft, sortedRight);
+    }
+
+private:
+    ListNode* getMid(ListNode* head) {
+        if (!head || !head->next)
+            return head;
+        ListNode* slow = head;
+        ListNode* fast = head->next;
+
+        while (fast != nullptr && fast->next != nullptr) {
+            slow = slow->next;
+            fast = fast->next->next;
         }
-        sort(listVal.begin(), listVal.end());
-        it = head;
-        for (int val : listVal) {
-            it->val = val;
-            it = it->next;
+        return slow;
+    }
+    ListNode* mergeList(ListNode* p, ListNode* q) {
+        ListNode* dummyHead = new ListNode(-1);
+        ListNode* curr = dummyHead;
+
+        while (p && q) {
+            if (p->val <= q->val) {
+                curr->next = p;
+                p = p->next;
+            } else {
+                curr->next = q;
+                q = q->next;
+            }
+            curr = curr->next;
         }
+        if (p)
+            curr->next = p;
+        if (q)
+            curr->next = q;
+        ListNode* head = dummyHead->next;
+        delete (dummyHead);
         return head;
     }
 };
