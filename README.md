@@ -118,6 +118,7 @@ Happy Coding! 🌟
 | [0228-summary-ranges](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0274-h-index](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0289-game-of-life) |
 | [0324-wiggle-sort-ii](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0324-wiggle-sort-ii) |
@@ -217,6 +218,7 @@ Happy Coding! 🌟
 | [0169-majority-element](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0229-majority-element-ii) |
+| [0274-h-index](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0274-h-index) |
 | [0324-wiggle-sort-ii](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0324-wiggle-sort-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0435-non-overlapping-intervals) |
@@ -590,4 +592,8 @@ Happy Coding! 🌟
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
