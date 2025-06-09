@@ -122,6 +122,7 @@ Happy Coding! 🌟
 | [0289-game-of-life](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0289-game-of-life) |
 | [0324-wiggle-sort-ii](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0324-wiggle-sort-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0435-non-overlapping-intervals](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0560-subarray-sum-equals-k](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -161,6 +162,7 @@ Happy Coding! 🌟
 | [0229-majority-element-ii](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0229-majority-element-ii) |
 | [0290-word-pattern](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0726-number-of-atoms](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0726-number-of-atoms) |
@@ -329,6 +331,7 @@ Happy Coding! 🌟
 | [0070-climbing-stairs](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0204-count-primes) |
+| [0380-insert-delete-getrandom-o1](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0650-2-keys-keyboard](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [1014-k-closest-points-to-origin](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1477-product-of-the-last-k-numbers](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -454,6 +457,7 @@ Happy Coding! 🌟
 | ------- |
 | [0146-lru-cache](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0155-min-stack) |
+| [0380-insert-delete-getrandom-o1](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1477-product-of-the-last-k-numbers](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1767-design-front-middle-back-queue](https://github.com/kripa-sindhu-007/LeetCode/tree/master/1767-design-front-middle-back-queue) |
 | [2413-smallest-number-in-infinite-set](https://github.com/kripa-sindhu-007/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
@@ -582,4 +586,8 @@ Happy Coding! 🌟
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0148-sort-list) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
