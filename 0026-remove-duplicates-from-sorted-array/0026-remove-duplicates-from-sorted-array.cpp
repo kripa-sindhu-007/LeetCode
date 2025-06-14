@@ -1,15 +1,16 @@
 class Solution {
 public:
     int removeDuplicates(vector<int>& nums) {
-        int count = 1;
         int idx = 1;
-        int curr = nums[0];
-        for (int i = 0; i < nums.size(); i++) {
-            if (curr == nums[i]) {
+        int count = 1; // 1st ele in the array is always valid.
+        int curr_ele = nums[0];
+
+        for (int i = 1; i < nums.size(); i++) {
+            if (curr_ele == nums[i])
                 continue;
-            } else {
+            else {
                 count++;
-                curr = nums[i];
+                curr_ele = nums[i];
                 swap(nums[i], nums[idx]);
                 idx++;
             }
