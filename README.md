@@ -196,6 +196,7 @@ Happy Coding! 🌟
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -271,6 +272,7 @@ Happy Coding! 🌟
 | [0072-edit-distance](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0087-scramble-string) |
+| [0125-valid-palindrome](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0179-largest-number) |
 | [0290-word-pattern](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/kripa-sindhu-007/LeetCode/tree/master/0316-remove-duplicate-letters) |
